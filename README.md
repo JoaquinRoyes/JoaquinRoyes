@@ -6,7 +6,7 @@
 <h2>Skills that I use:👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,linux,git,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,linux,ubuntu,git,&perline=12" />
   </a>
 </p>
 
