@@ -18,4 +18,17 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,mysql,&perline=12" />
+    
+<h2>📫 Contact me</h2>
+<p align="center">
+  <a href="mailto:joaquinroyes1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/joaquín-royes">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/JoaquinRoyes">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
