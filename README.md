@@ -4,7 +4,7 @@
 <h2>🎓 About me</h2>
 <p>
   📚 Studying <strong>Bachelor's degree in computer science </strong> at Universidad de Montevideo<br>
-  💼 IT Support at <strong>UDELAR - Facultad de Enfermería de UDELAR</strong><br>
+  💼 IT Support at <strong>UDELAR - Facultad de Enfermería </strong><br>
   ⚡ Currently learning: Docker, DevOps & ethical hacking
 <h2>Skills that I use:👨🏻‍💻</h2>
 <p align="center">
