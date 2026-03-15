@@ -27,8 +27,6 @@
   <a href="https://linkedin.com/in/joaquín-royes">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/JoaquinRoyes">
-    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
