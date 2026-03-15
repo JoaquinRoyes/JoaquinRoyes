@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I am Joaquin Royes 👋</h1>
 <p align="center">Informatics student & IT Support enthusiast passionate about Linux, networking and cybersecurity 🌐</p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FwazR2endjZDFtbXQ1cGpseG9wb2NwcDFwd29zd2Zua3dsdXV5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="400" />
+</p>
 <br>
 <h2>🎓 About me</h2>
 <p>
